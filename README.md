@@ -1,1 +1,5 @@
-yoooooooo
+Making my own Custom Firmware for th Flipper Zero.
+
+still work in progress.
+
+stay updated and feel free to try out the firmware.
