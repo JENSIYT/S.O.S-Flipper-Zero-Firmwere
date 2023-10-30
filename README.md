@@ -4,7 +4,7 @@ Making my own Custom Firmware for th Flipper Zero.
 
 For more information - **Join the discord!**
 
-[DISCORD]([url](https://discord.gg/cSk3WEMCG7))
+[DISCORD](https://discord.gg/cSk3WEMCG7)
 
 still work in progress.
 
