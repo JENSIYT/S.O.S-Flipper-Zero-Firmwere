@@ -1,4 +1,4 @@
-![NAME-NEEDED-FW (https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExc2ltYXJkZzlyaTEybWRuaDBuNWtmdWg5d2VvbmJlcGdsdWZtdDlzeiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/5k9BASk41i2NazAfIK/giphy.gif)
+![NAME-NEEDED-FW] (https://brodan.biz/blog/content/images/size/w2000/2023/04/Screenshot-2023-04-25-at-12.01.22-AM.png)
 
 Making my own Custom Firmware for th Flipper Zero.
 
